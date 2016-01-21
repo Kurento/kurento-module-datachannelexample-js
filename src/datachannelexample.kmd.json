@@ -1,6 +1,6 @@
 {
   "name": "datachannelexample",
-  "version": "6.3.1-dev",
+  "version": "6.3.1",
   "kurentoVersion": "^6.0.0",
   "imports": [
     {
@@ -33,7 +33,7 @@
         "mavenGroupId": "org.kurento.module",
         "packageName": "org.kurento.module.datachannelexample",
         "mavenArtifactId": "datachannelexample",
-        "mavenVersion": "6.3.1-SNAPSHOT"
+        "mavenVersion": "6.3.1"
       }
     },
     "implementation": {
