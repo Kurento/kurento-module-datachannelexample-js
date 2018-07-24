@@ -2,7 +2,6 @@
   "name": "kurento-module-datachannelexample",
   "version": "6.7.1-dev",
   "description": "",
-  "main": "lib/index.js",
   "scripts": {
     "prepublish": "grunt"
   },
@@ -25,5 +24,6 @@
     "Kurento",
     "module",
     "plugin"
-  ]
+  ],
+  "main": "lib/index.js"
 }
