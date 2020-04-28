@@ -43,9 +43,9 @@
   },
   "remoteClasses": [
     {
-      "name": "KmsShowData",
-      "doc": "KmsShowData interface. Documentation about the module",
-      "extends": "MediaElement",
+      "name": "KmsDetectFaces",
+      "doc": "KmsDetectFaces interface. Documentation about the module",
+      "extends": "Filter",
       "constructor": {
         "params": [
           {
@@ -73,9 +73,9 @@
       }
     },
     {
-      "name": "KmsDetectFaces",
-      "doc": "KmsDetectFaces interface. Documentation about the module",
-      "extends": "Filter",
+      "name": "KmsShowData",
+      "doc": "KmsShowData interface. Documentation about the module",
+      "extends": "MediaElement",
       "constructor": {
         "params": [
           {
