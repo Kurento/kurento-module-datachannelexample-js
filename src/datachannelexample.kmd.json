@@ -1,6 +1,6 @@
 {
   "name": "datachannelexample",
-  "version": "7.2.1-dev",
+  "version": "7.3.0",
   "kurentoVersion": "^7.0.0",
   "imports": [
     {
@@ -27,12 +27,12 @@
       "java": {
         "mavenGroupId": "org.kurento.module",
         "mavenArtifactId": "datachannelexample",
-        "mavenVersion": "7.2.1-SNAPSHOT",
+        "mavenVersion": "7.3.0",
         "packageName": "org.kurento.module.datachannelexample"
       },
       "js": {
         "nodeName": "kurento-module-datachannelexample",
-        "npmVersion": "7.2.1",
+        "npmVersion": "7.3.0",
         "npmDescription": ""
       }
     },
